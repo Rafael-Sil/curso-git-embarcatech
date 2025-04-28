@@ -1,0 +1,7 @@
+• git init --initial-branch=main
+• git config user.name 
+• git config user.email
+• git add Nome.txt
+• git commit -m “Primeiro commit”
+• git remote add origin https://github.com/Rafael-Sil/curso-git-embarcatech.git
+• git push -u origin main
